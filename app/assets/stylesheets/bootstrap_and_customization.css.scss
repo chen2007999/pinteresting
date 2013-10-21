@@ -1,4 +1,27 @@
-$navbar-inverse-brand-color: red;
+$navbar-default-bg:               #f1c40f;
+$navbar-height:                   70px;
+$navbar-default-link-color:       #ecf0f1;
+$nav-link-padding:                20px ;
+$navbar-default-brand-hover-bg:   black;
+$navbar-default-link-hover-bg:    black;
+$navbar-default-brand-hover-color:red;
+$navbar-default-link-hover-color: red;
+$body-bg:                         #34495e;
+$line-height-base:                1.2;
+$font-size-base:                  15px;
+$font-family-base:                Chalkduster;
+$headings-font-weight:            1500;
+$headings-font-family:            Herculanum;
+$jumbotron-padding:               25px;
+
 
 
 @import 'bootstrap';
+
+.center {
+	text-align:center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
