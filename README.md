@@ -2,5 +2,4 @@
 
 
 
-Jiaqi Chen
-STAY SEXY STAY COOL
+A touch on ruby on rails
